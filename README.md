@@ -4,11 +4,11 @@ Manage stores
 In this exercise I would like to create three chain stores, add an inventory control. It will be simple, because the information will be in smartsheets, probably in csv. The main intent of the exercise is not to focus on extraction and modeling, but on analysis and visualization. Work on connecting tables and creating analyses, visyalizations and reports.
 
 1 - Create the tables
-    a - chain.A [date,store_id,product_id,volume]
-    b - chain.B [date,store_id,product_id,volume]
-    c - chain.C [date,store_id,product_id,volume]
-    d - m.product [product_id,price,product_category,product_name]
-    e - m.store [store_id,address,tel,zip_code]
+    a - chain.A [date,store_id,product_id,volume] - realizado
+    b - chain.B [date,store_id,product_id,volume] - realizado
+    c - chain.C [date,store_id,product_id,volume] - realizado
+    d - m.product [product_id,price,product_category,product_name] - realizado
+    e - m.store [store_id,address,tel,zip_code] - realizado
 
 2 - Returns the daily total volume of the three chains by product.
 
