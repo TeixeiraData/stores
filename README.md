@@ -18,7 +18,8 @@ In this exercise I would like to create three chain stores, add an inventory con
 2. Returns the daily total volume of the three chains by product.
     - Accomplished (volume_tt.ipynb)
 
-3. In Chain A, return daily sales of 5 most expensive products in each product_category
+3. In all Chains, return month sales of 2 most expensive products in each product_category
+    - Accomplished (five_exp.ipynb)
 
 4. Returns 7 days moving average of volume by store by product each Chain.
 
